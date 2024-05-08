@@ -7,12 +7,12 @@
 </div>
 ¡Hola! Soy Erlantz, un apasionado programador junior con un entusiasmo genuino por la creación de paginas web y aplicaciones. Este repositorio es mi espacio para compartir proyectos, aprender y colaborar con otros desarrolladores.
 
-## Acerca de Mí
+## Acerca de Mí 🙋🏻‍♂️
 
 Soy un recién graduado en Desarrollo de Aplicaciones Web con un fuerte deseo de crecer y desarrollarme en el mundo de la programación. Mis áreas de interés incluyen [Desarrollo Web, Desarrollo de Aplicaciones, etc.].
 
 
-## Habilidades
+## Habilidades 🛠
 
 Mis habilidades incluyen, pero no se limitan a:
 
