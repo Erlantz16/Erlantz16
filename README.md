@@ -30,5 +30,7 @@ Estoy abierto a colaboraciones y oportunidades de aprendizaje. Si tienes un proy
 
 Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/erlantz-barriuso/).
 
+📫 Correo: erlantzama@gmail.com.
+
 ¡Gracias por visitar mi repositorio! 😊
 
