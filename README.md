@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="img/programming.jpg" alt="programming" width="800px" />
+<img src="img/programming.jpg" alt="programming" width="500px" />
 
 </div>
 ¡Hola! Soy Erlantz, un apasionado programador junior con un entusiasmo genuino por la creación de paginas web y aplicaciones. Este repositorio es mi espacio para compartir proyectos, aprender y colaborar con otros desarrolladores.
