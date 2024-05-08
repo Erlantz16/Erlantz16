@@ -14,21 +14,21 @@ Soy un recién graduado en Desarrollo de Aplicaciones Web con un fuerte deseo de
 
 ## Habilidades 🛠
 
-Mis habilidades incluyen, pero no se limitan a:
-
+💻 Mis habilidades incluyen, pero no se limitan a:
+ 
 - Lenguajes de programación: Java, SpringBoot, JavaSwing, JavaScript, Vue.js, PHP, Laravel, etc. .
 - Desarrollo web: HTML, CSS, Bootstrap, Tailwind, SCSS.
 - Bases de datos: MySQL, PL/SQL.
 - Herramientas de control de versiones: Git, GitHub, GitLab.
 - Resolución de problemas y/o incidencias.
 
-## Colaboración
+## Colaboración 🤝🏻
 
 Estoy abierto a colaboraciones y oportunidades de aprendizaje. Si tienes un proyecto interesante en mente y buscas colaboración y ayuda, ¡no dudes en contactarme!
 
-## Contacto
+## Contacto 📲
 
 Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/erlantz-barriuso/).
 
-¡Gracias por visitar mi repositorio!
+¡Gracias por visitar mi repositorio! 😊
 
